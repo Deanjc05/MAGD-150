@@ -7,9 +7,9 @@ MAGD 150 Project Portfolio
 
 [LA 1] MAGD-150/f17madg150lab01_Dean.pde
 
-(LA 3) MAGD-150/f17_magd150_lab03_Dean.pde
+[LA 3] MAGD-150/f17_magd150_lab03_Dean.pde
 
-LA 4
+[LA 4] MAGD-150/s17madg150lab04_Dean.pde
 
 LA
 

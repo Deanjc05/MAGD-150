@@ -5,7 +5,7 @@ MAGD 150 Project Portfolio
 
 [.io page] https://deanjc05.github.io/MAGD-150/
 
-LA 1
+[LA 1] MAGD-150/f17madg150lab01_Dean.pde
 
 LA 3
 

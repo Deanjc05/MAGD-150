@@ -11,6 +11,6 @@ MAGD 150 Project Portfolio
 
 [LA 4] MAGD-150/s17madg150lab04_Dean.pde
 
-LA
+[LA 5] MAGD-150/s17magd150lab05_Dean.pde
 
 LA
